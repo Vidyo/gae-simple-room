@@ -27,9 +27,8 @@ import hashlib
 import hmac
 import sys
 import random
-
-import jinja2
 import webapp2
+import jinja2
 
 # Developer specific parameters
 VIDYO_IO_DEVELOPER_KEY = "7de6100c55254f678335a4e94ad1291b"
