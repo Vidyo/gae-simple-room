@@ -28,8 +28,6 @@ import hmac
 import sys
 import random
 
-# from google.appengine.ext import ndb
-
 import jinja2
 import webapp2
 
